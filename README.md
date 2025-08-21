@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AbdulFatawu1122
-- 👀 I’m interested in becoming software engineer
-- 🌱 I’m currently learning python
+- 👀 I’m interested in becoming Machine Learning and AI engineer
+- 🌱 I’m currently learning Machine learning and deep learning
 - 💞️ I’m looking to collaborate on many people who are already in the field
 - 📫 How to reach me by my gmail sfatawu625@gmail.com
 - 😄 Pronouns: ...
