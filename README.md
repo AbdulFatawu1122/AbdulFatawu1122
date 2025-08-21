@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AbdulFatawu1122
+- 👋 Hi, I’m Abdul Fatawu
 - 👀 I’m interested in becoming Machine Learning and AI engineer
 - 🌱 I’m currently learning Machine learning and deep learning
 - 💞️ I’m looking to collaborate on many people who are already in the field
